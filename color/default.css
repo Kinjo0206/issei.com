@@ -1,0 +1,53 @@
+
+a,a:hover {
+	color: #ffd820;
+}
+
+.txt-shadow:hover span{
+	color: #ffd820 !important;
+}
+.txt-shadow:hover i{
+-webkit-animation: horizontal 2s ease infinite;
+    animation: horizontal 2s ease infinite;
+}
+.txt-shadow:hover .fa{
+	color: #ffd820;
+}
+
+.txt-shadow:hover .fas{
+	color: #ffd820;
+}
+
+.txt-shadow:hover .fab{
+	color: #ffd820;
+}
+.nivo-lightbox-theme-default .nivo-lightbox-title{
+  display: block;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #d43076;
+}
+
+.bg-skin {
+	background: #ffd820;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #ffd820;
+}
+
+footer {
+    background-color: #ffd820;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: #51c4e1;
+  border-color: #1a8eab;
+}
+.sns-area a{
+  color:#ef8a14;
+}
